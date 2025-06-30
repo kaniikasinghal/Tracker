@@ -86,7 +86,7 @@ DATABASES = {
         'PORT': os.environ.get('DB_PORT', '5432'),
     }
 }
-}
+
 
 
 # Password validation
